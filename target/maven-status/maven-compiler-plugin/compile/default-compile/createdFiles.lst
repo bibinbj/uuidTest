@@ -1,0 +1,5 @@
+com\code\uuidTest\App.class
+com\code\uuidTest\ReservationController.class
+com\code\uuidTest\CReservation.class
+com\code\uuidTest\CassandraReservationRepository.class
+com\code\uuidTest\Request.class
